@@ -127,6 +127,21 @@ For conceptual help, search topics like:
 
 ---
 
+## Contributing
+
+Contributions are welcome.
+
+Please see [`docs/CONTRIBUTING.md`](docs/CONTRIBUTING.md) for contribution guidelines.
+
+Suggested improvements:
+
+* Sound support
+* Difficulty scaling
+* Better randomness for pillar generation
+* Port to graphics mode (Mode 13h)
+
+---
+
 ## Maintainers
 
 Maintained by:
